@@ -1,3 +1,5 @@
+[[TOC]]
+
 # Why PenguinCloud 
 ## Infrastructure
 Penguin cloud takes your eyes off your pager app, and let's you enjoy life as an infrastructure engineer.
