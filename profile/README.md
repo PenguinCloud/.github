@@ -21,8 +21,14 @@ Thanks to it's layered approach and variety of built in PaaS / SaaS solutions, d
 PenguinCloud adds additional security while reducing complexity for your team to accomplish work. Less risk, more effective developers, more cash in your comany's pockets to hire that person you have been needing for a while!
 
 # Current Status
-* Currently porting all of our prior closed source code to PenguinCloud
+* Currently building out the products to meet a large enterprise scale
 * Kicking off rebuild of certain aspects based on learnings from before
+
+# Phased deployment
+*  Phase 1 - Core Infra
+*  Phase 2 - monitoring and enterprise mangement
+*  Phase 3 - Enterprise Security Services
+*  Phase 4 - Further integration with synergistic projects
 
 # About Us
 We are a glonbal team of engineers with Fortune 100, DoD, and big tech experience in development and security. We know what scale means, and we also know how to make our code secure enough even for the most paranoid! Backed by multiple financers with an interest in bettering the cloud and open source communities!
