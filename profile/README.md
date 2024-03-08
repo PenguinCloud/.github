@@ -31,7 +31,7 @@ PenguinCloud adds additional security while reducing complexity for your team to
 *  Phase 4 - Further integration with synergistic projects
 
 # About Us
-We are a glonbal team of engineers with Fortune 100, DoD, and big tech experience in development and security. We know what scale means, and we also know how to make our code secure enough even for the most paranoid! Backed by multiple financers with an interest in bettering the cloud and open source communities!
+We are a global team of engineers with Fortune 100, DoD, and big tech experience in development and security. We know what scale means, and we also know how to make our code secure enough even for the most paranoid! Backed by multiple financers with an interest in bettering the cloud and open source communities!
 
 # Contributing Guidelines
 * All code must follow our style and format guidelines: 
