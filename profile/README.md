@@ -1,7 +1,7 @@
 Hi there 👋
 
 
-# Why PenguinCloud 
+# Why Penguin Technologies and Penguin Cloud
 ## Infrastructure
 Penguin cloud takes your eyes off your pager app, and let's you enjoy life as an infrastructure engineer.
 * All applications and images are scanned by different types of scanners:
